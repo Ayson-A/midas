@@ -1,0 +1,335 @@
+County Name,County FIPS Code,State Name,Water Stress Level
+Loudoun,51107,Virginia,1
+Prince William,51153,Virginia,4
+Indiana,42063,Pennsylvania,2
+Licking,39089,Ohio,2
+Spotsylvania,51177,Virginia,3
+Frederick,51069,Virginia,3
+Frederick,24021,Maryland,4
+Mecklenburg,51117,Virginia,3
+York,42133,Pennsylvania,1
+Luzerne,42079,Pennsylvania,1
+Benton,18007,Indiana,4
+King George,51099,Virginia,4
+Virginia Beach,51810,Virginia,2
+Stafford,51179,Virginia,4
+Randolph,18135,Indiana,3
+Sussex,51183,Virginia,4
+White,18181,Indiana,1
+Jay,18075,Indiana,3
+Charles City,51036,Virginia,4
+Cook,17031,Illinois,4
+Highland,39071,Ohio,3
+Will,17197,Illinois,4
+Union,39159,Ohio,3
+Paulding,39125,Ohio,1
+Hanover,51085,Virginia,2
+Kendall,17093,Illinois,4
+St Joseph,26149,Michigan,1
+Hardin,39065,Ohio,1
+Whitley,18183,Indiana,3
+Tucker,54093,West Virginia,3
+Appomattox,51011,Virginia,4
+Currituck,37053,North Carolina,3
+Louisa,51109,Virginia,2
+Powhatan,51145,Virginia,3
+Fulton,42057,Pennsylvania,3
+Bracken,21023,Kentucky,1
+Camden,37029,North Carolina,3
+Clarke,51043,Virginia,3
+Gallia,39053,Ohio,3
+Putnam,39137,Ohio,1
+Ross,39141,Ohio,3
+Mineral,54057,West Virginia,3
+Perquimans,37143,North Carolina,3
+Gates,37073,North Carolina,3
+Prince Edward,51147,Virginia,4
+Madison,39097,Ohio,3
+Grant,21081,Kentucky,3
+Wyandot,39175,Ohio,1
+Potter,42105,Pennsylvania,2
+Perry,39127,Ohio,1
+Garrett,24023,Maryland,3
+Patrick,51141,Virginia,3
+Campbell,51031,Virginia,3
+Fayette,54019,West Virginia,1
+Northampton,37131,North Carolina,4
+Grayson,51077,Virginia,2
+Logan,39091,Ohio,3
+Jefferson,54037,West Virginia,3
+Grant,18053,Indiana,3
+Nicholas,54067,West Virginia,1
+Pendleton,21191,Kentucky,1
+Mercer,39107,Ohio,3
+King William,51101,Virginia,2
+Wetzel,54103,West Virginia,1
+Page,51139,Virginia,3
+New Kent,51127,Virginia,4
+Wythe,51197,Virginia,2
+Taylor,21217,Kentucky,3
+Hopewell City,51670,Virginia,4
+Pulaski,51155,Virginia,2
+Queen Annes,24035,Maryland,3
+Brown,39015,Ohio,1
+Juniata,42067,Pennsylvania,3
+Carroll,51035,Virginia,2
+Goochland,51075,Virginia,3
+King and Queen,51097,Virginia,3
+Kent,24029,Maryland,3
+Charlotte,51037,Virginia,3
+Mercer,21167,Kentucky,1
+Estill,21065,Kentucky,3
+Essex,51057,Virginia,3
+Washington,24043,Maryland,3
+Elkhart,18039,Indiana,1
+Barbour,54001,West Virginia,3
+Dinwiddie,51053,Virginia,4
+Raleigh,54081,West Virginia,1
+Martin,37117,North Carolina,3
+Gloucester,51073,Virginia,3
+Northampton,42095,Pennsylvania,3
+Amherst,51009,Virginia,3
+Salem,34033,New Jersey,3
+Wayne,42127,Pennsylvania,3
+Middlesex,51119,Virginia,3
+Berkeley,54003,West Virginia,3
+Rowan,21205,Kentucky,1
+Hertford,37091,North Carolina,4
+Meigs,39105,Ohio,1
+Roanoke,51161,Virginia,3
+Greenup,21089,Kentucky,3
+Hancock,39063,Ohio,1
+Erie,39043,Ohio,1
+Washington,37187,North Carolina,3
+Fulton,39051,Ohio,1
+Wood,54107,West Virginia,1
+Westmoreland,51193,Virginia,4
+Shenandoah,51171,Virginia,3
+Lancaster,51103,Virginia,4
+Henry,51089,Virginia,3
+Pasquotank,37139,North Carolina,3
+Cherokee,37039,North Carolina,1
+Isle of Wight,51093,Virginia,2
+Woodford,17203,Illinois,2
+Livingston,17105,Illinois,2
+Laurel,21125,Kentucky,3
+Frederick,51069,Virginia,3
+Dorchester,24019,Maryland,3
+Bertie,37015,North Carolina,1
+St Joseph,18141,Indiana,4
+Barren,21009,Kentucky,3
+Surry,51181,Virginia,4
+Pittsylvania,51143,Virginia,3
+Bath,51017,Virginia,3
+Frederick,24021,Maryland,4
+Halifax,37083,North Carolina,3
+Kanawha,54039,West Virginia,1
+Wicomico,24045,Maryland,4
+Clarion,42031,Pennsylvania,2
+DeKalb,17037,Illinois,5
+James City,51095,Virginia,4
+Hardin,21093,Kentucky,3
+Greene,39057,Ohio,1
+Kenton,21117,Kentucky,1
+Southampton,51175,Virginia,4
+Chowan,37041,North Carolina,3
+Suffolk City,51800,Virginia,2
+STARK,17175,Illinois,3
+Bureau,17011,Illinois,2
+Prince Georges,24033,Maryland,2
+Culpeper,51047,Virginia,3
+Washington,42125,Pennsylvania,3
+Huron,39077,Ohio,1
+Somerset,42111,Pennsylvania,2
+Clark,39023,Ohio,1
+Clermont,39025,Ohio,1
+Hampton City,51650,Virginia,4
+McLean,17113,Illinois,2
+Amelia,51007,Virginia,4
+Stark,39151,Ohio,3
+Grant,54023,West Virginia,1
+Huntingdon,42061,Pennsylvania,3
+Blair,42013,Pennsylvania,3
+Greenbrier,54025,West Virginia,1
+Putnam,54079,West Virginia,1
+Somerset,24039,Maryland,4
+Marshall,17123,Illinois,2
+Carroll,24013,Maryland,4
+Mahoning,39099,Ohio,1
+Bedford,51019,Virginia,3
+Henry,17073,Illinois,4
+Cape May,34009,New Jersey,3
+Lancaster,42071,Pennsylvania,1
+Anne Arundel,24003,Maryland,2
+Erie,42049,Pennsylvania,2
+Howard,24027,Maryland,2
+Stephenson,17177,Illinois,4
+Morris,34027,New Jersey,1
+Jo Daviess,17085,Illinois,1
+Baltimore,24005,Maryland,2
+Monmouth,34025,New Jersey,3
+Boone,17007,Illinois,4
+Sussex,10005,Delaware,5
+Greensville,51081,Virginia,4
+Somerset,34035,New Jersey,4
+Middlesex,34023,New Jersey,4
+Kankakee,17091,Illinois,4
+Tioga,42117,Pennsylvania,2
+Van Wert,39161,Ohio,1
+Harford,24025,Maryland,1
+Berrien,26021,Michigan,4
+Caroline,51033,Virginia,3
+Fauquier,51061,Virginia,4
+Lackawanna,42069,Pennsylvania,1
+LaSalle,17099,Illinois,2
+Armstrong,42005,Pennsylvania,2
+Alleghany,51005,Virginia,3
+Marion,39101,Ohio,3
+Beaver,42007,Pennsylvania,1
+Lee,17103,Illinois,4
+Halifax,51083,Virginia,3
+Guernsey,39059,Ohio,3
+Harrison,54033,West Virginia,3
+Scioto,39145,Ohio,3
+Worcester,24047,Maryland,4
+Mercer,34021,New Jersey,4
+Atlantic,34001,New Jersey,3
+Northampton,51131,Virginia,4
+Monongalia,54061,West Virginia,3
+Franklin,39049,Ohio,3
+Montour,42093,Pennsylvania,2
+Prince George,51149,Virginia,4
+Marshall,54051,West Virginia,1
+Cambria,42021,Pennsylvania,2
+Wyoming,42131,Pennsylvania,1
+Pickaway,39129,Ohio,3
+Warren,51187,Virginia,3
+Montgomery,42091,Pennsylvania,3
+Medina,39103,Ohio,3
+Sussex,34037,New Jersey,2
+Franklin,42055,Pennsylvania,3
+Passaic,34031,New Jersey,1
+Monroe,39111,Ohio,1
+Dearborn,18029,Indiana,1
+Jefferson,18077,Indiana,3
+New Castle,10003,Delaware,4
+Cass,26027,Michigan,1
+Cecil,24015,Maryland,3
+Calvert,24009,Maryland,2
+Washington,39167,Ohio,3
+Mason,21161,Kentucky,1
+Bucks,42017,Pennsylvania,3
+Mason,54053,West Virginia,1
+Butler,39017,Ohio,3
+Brunswick,51025,Virginia,4
+Ogle,17141,Illinois,4
+Burlington,34005,New Jersey,3
+Rockingham,51165,Virginia,3
+Auglaize,39011,Ohio,1
+Schuylkill,42107,Pennsylvania,3
+District of Columbia,11001,District of Columbia,1
+Vinton,39163,Ohio,3
+Rock Island,17161,Illinois,4
+Pleasants,54073,West Virginia,1
+Oldham,21185,Kentucky,1
+Lawrence,39087,Ohio,3
+Snyder,42109,Pennsylvania,1
+Union,34039,New Jersey,5
+FAYETTE,42051,Pennsylvania,3
+Madison,18095,Indiana,3
+Lawrence,21127,Kentucky,3
+Fluvanna,51065,Virginia,3
+Defiance,39039,Ohio,1
+Cumberland,34011,New Jersey,3
+Jefferson,39081,Ohio,1
+Wayne,18177,Indiana,3
+Chesterfield,51041,Virginia,4
+Delaware,42045,Pennsylvania,3
+Montgomery,39113,Ohio,3
+Buckingham,51029,Virginia,3
+Clark,21049,Kentucky,3
+Miami,39109,Ohio,3
+Lycoming,42081,Pennsylvania,2
+Northumberland,42097,Pennsylvania,1
+Lawrence,42073,Pennsylvania,1
+Chesapeake City,51550,Virginia,3
+Berks,42011,Pennsylvania,3
+Fairfax,51059,Virginia,4
+Carbon,42025,Pennsylvania,3
+Adams,42001,Pennsylvania,4
+Columbiana,39029,Ohio,1
+Carroll,39019,Ohio,3
+Gloucester,34015,New Jersey,3
+Wayne,54099,West Virginia,3
+Wise,51195,Virginia,3
+Charles,24017,Maryland,2
+Henry,39069,Ohio,1
+Union,42119,Pennsylvania,2
+DuPage,17043,Illinois,4
+Richland,39139,Ohio,3
+Wood,39173,Ohio,1
+Greene,42059,Pennsylvania,3
+Bergen,34003,New Jersey,1
+Cumberland,42041,Pennsylvania,1
+Ottawa,39123,Ohio,1
+Lebanon,42075,Pennsylvania,1
+Accomack,51001,Virginia,4
+Westmoreland,42129,Pennsylvania,3
+Allegheny,42003,Pennsylvania,2
+Grundy,17063,Illinois,4
+Chester,42029,Pennsylvania,3
+Spencer,18147,Indiana,1
+Boone,21015,Kentucky,1
+Hunterdon,34019,New Jersey,4
+Highland,51091,Virginia,3
+Centre,42027,Pennsylvania,2
+Whiteside,17195,Illinois,4
+Sandusky,39143,Ohio,1
+Lucas,39095,Ohio,1
+Muskingum,39119,Ohio,3
+Ocean,34029,New Jersey,3
+Camden,34007,New Jersey,3
+WARREN,34041,New Jersey,3
+Washington,51191,Virginia,2
+Trumbull,39155,Ohio,1
+Summit,39153,Ohio,3
+Bradford,42015,Pennsylvania,1
+Clearfield,42033,Pennsylvania,2
+Darke,39037,Ohio,3
+Salem City,51775,Virginia,3
+Shelby,39149,Ohio,3
+Kent,10001,Delaware,4
+Essex,34013,New Jersey,5
+Warren,42123,Pennsylvania,2
+Tazewell,17179,Illinois,2
+Richmond,51159,Virginia,4
+Henrico,51087,Virginia,4
+Russell,51167,Virginia,3
+Hudson,34017,New Jersey,3
+Ashtabula,39007,Ohio,2
+Pulaski,21199,Kentucky,3
+Talbot,24041,Maryland,3
+Marion,54049,West Virginia,3
+Monroe,42089,Pennsylvania,3
+Wayne,39169,Ohio,3
+Venango,42121,Pennsylvania,2
+Lake,17097,Illinois,4
+Lorain,39093,Ohio,2
+Williams,39171,Ohio,1
+Cuyahoga,39035,Ohio,2
+Tuscarawas,39157,Ohio,3
+Crawford,39033,Ohio,1
+Philadelphia,42101,Pennsylvania,3
+McHenry,17111,Illinois,4
+Montgomery,24031,Maryland,1
+Hamilton,39061,Ohio,1
+Dauphin,42043,Pennsylvania,1
+Danville City,51590,Virginia,3
+Dare,37055,North Carolina,3
+Alexandria City,51510,Virginia,4
+Richmond City,51760,Virginia,3
+Susquehanna,42115,Pennsylvania,1
+Lake,39085,Ohio,2
+Winnebago,17201,Illinois,4
+Baltimore City,24510,Maryland,2
+Kane,17089,Illinois,5

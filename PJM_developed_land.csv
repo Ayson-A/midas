@@ -1,0 +1,335 @@
+County Name,County FIPS Code,State Name,Developed Land %
+Loudoun,51107,Virginia,0.2773
+Prince William,51153,Virginia,0.3936
+Indiana,42063,Pennsylvania,0.1083
+Licking,39089,Ohio,0.1761
+Spotsylvania,51177,Virginia,0.1698
+Frederick,51069,Virginia,0.1576
+Frederick,24021,Maryland,0.1966
+Mecklenburg,51117,Virginia,0.0813
+York,42133,Pennsylvania,0.2662
+Luzerne,42079,Pennsylvania,0.1842
+Benton,18007,Indiana,0.0666
+King George,51099,Virginia,0.1104
+Virginia Beach,51810,Virginia,0.3929
+Stafford,51179,Virginia,0.2447
+Randolph,18135,Indiana,0.0899
+Sussex,51183,Virginia,0.0461
+White,18181,Indiana,0.0916
+Jay,18075,Indiana,0.092
+Charles City,51036,Virginia,0.0451
+Cook,17031,Illinois,0.8519
+Highland,39071,Ohio,0.0889
+Will,17197,Illinois,0.3844
+Union,39159,Ohio,0.1344
+Paulding,39125,Ohio,0.0942
+Hanover,51085,Virginia,0.1614
+Kendall,17093,Illinois,0.2032
+St Joseph,26149,Michigan,0.1201
+Hardin,39065,Ohio,0.0897
+Whitley,18183,Indiana,0.1159
+Tucker,54093,West Virginia,0.0334
+Appomattox,51011,Virginia,0.0681
+Currituck,37053,North Carolina,0.1031
+Louisa,51109,Virginia,0.0837
+Powhatan,51145,Virginia,0.0909
+Fulton,42057,Pennsylvania,0.0667
+Bracken,21023,Kentucky,0.0734
+Camden,37029,North Carolina,0.0438
+Clarke,51043,Virginia,0.088
+Gallia,39053,Ohio,0.0942
+Putnam,39137,Ohio,0.1072
+Ross,39141,Ohio,0.0979
+Mineral,54057,West Virginia,0.0832
+Perquimans,37143,North Carolina,0.071
+Gates,37073,North Carolina,0.0433
+Prince Edward,51147,Virginia,0.0761
+Madison,39097,Ohio,0.0907
+Grant,21081,Kentucky,0.0959
+Wyandot,39175,Ohio,0.0954
+Potter,42105,Pennsylvania,0.0354
+Perry,39127,Ohio,0.0908
+Garrett,24023,Maryland,0.0705
+Patrick,51141,Virginia,0.0695
+Campbell,51031,Virginia,0.1101
+Fayette,54019,West Virginia,0.0629
+Northampton,37131,North Carolina,0.0611
+Grayson,51077,Virginia,0.0639
+Logan,39091,Ohio,0.1171
+Jefferson,54037,West Virginia,0.1826
+Grant,18053,Indiana,0.1428
+Nicholas,54067,West Virginia,0.0477
+Pendleton,21191,Kentucky,0.0743
+Mercer,39107,Ohio,0.1121
+King William,51101,Virginia,0.0607
+Wetzel,54103,West Virginia,0.059
+Page,51139,Virginia,0.0895
+New Kent,51127,Virginia,0.1011
+Wythe,51197,Virginia,0.082
+Taylor,21217,Kentucky,0.104
+Hopewell City,51670,Virginia,0.8012
+Pulaski,51155,Virginia,0.1181
+Queen Annes,24035,Maryland,0.1286
+Brown,39015,Ohio,0.1023
+Juniata,42067,Pennsylvania,0.0869
+Carroll,51035,Virginia,0.0914
+Goochland,51075,Virginia,0.1105
+King and Queen,51097,Virginia,0.0425
+Kent,24029,Maryland,0.0873
+Charlotte,51037,Virginia,0.0542
+Mercer,21167,Kentucky,0.0953
+Estill,21065,Kentucky,0.0686
+Essex,51057,Virginia,0.0581
+Washington,24043,Maryland,0.1942
+Elkhart,18039,Indiana,0.2905
+Barbour,54001,West Virginia,0.0573
+Dinwiddie,51053,Virginia,0.0763
+Raleigh,54081,West Virginia,0.1059
+Martin,37117,North Carolina,0.0656
+Gloucester,51073,Virginia,0.1039
+Northampton,42095,Pennsylvania,0.3645
+Amherst,51009,Virginia,0.073
+Salem,34033,New Jersey,0.1447
+Wayne,42127,Pennsylvania,0.0874
+Middlesex,51119,Virginia,0.1047
+Berkeley,54003,West Virginia,0.2177
+Rowan,21205,Kentucky,0.0854
+Hertford,37091,North Carolina,0.0683
+Meigs,39105,Ohio,0.0849
+Roanoke,51161,Virginia,0.2276
+Greenup,21089,Kentucky,0.1143
+Hancock,39063,Ohio,0.1387
+Erie,39043,Ohio,0.2364
+Washington,37187,North Carolina,0.0499
+Fulton,39051,Ohio,0.1197
+Wood,54107,West Virginia,0.1608
+Westmoreland,51193,Virginia,0.0869
+Shenandoah,51171,Virginia,0.095
+Lancaster,51103,Virginia,0.107
+Henry,51089,Virginia,0.1322
+Pasquotank,37139,North Carolina,0.1273
+Cherokee,37039,North Carolina,0.0784
+Isle of Wight,51093,Virginia,0.1006
+Woodford,17203,Illinois,0.0863
+Livingston,17105,Illinois,0.0775
+Laurel,21125,Kentucky,0.1411
+Frederick,51069,Virginia,0.1576
+Dorchester,24019,Maryland,0.0637
+Bertie,37015,North Carolina,0.0427
+St Joseph,18141,Indiana,0.3033
+Barren,21009,Kentucky,0.1007
+Surry,51181,Virginia,0.0498
+Pittsylvania,51143,Virginia,0.0858
+Bath,51017,Virginia,0.0285
+Frederick,24021,Maryland,0.1966
+Halifax,37083,North Carolina,0.0793
+Kanawha,54039,West Virginia,0.1116
+Wicomico,24045,Maryland,0.1678
+Clarion,42031,Pennsylvania,0.0847
+DeKalb,17037,Illinois,0.1135
+James City,51095,Virginia,0.2722
+Hardin,21093,Kentucky,0.1549
+Greene,39057,Ohio,0.2424
+Kenton,21117,Kentucky,0.3747
+Southampton,51175,Virginia,0.0515
+Chowan,37041,North Carolina,0.0871
+Suffolk City,51800,Virginia,0.1347
+STARK,17175,Illinois,0.0545
+Bureau,17011,Illinois,0.0727
+Prince Georges,24033,Maryland,0.4851
+Culpeper,51047,Virginia,0.0922
+Washington,42125,Pennsylvania,0.1873
+Huron,39077,Ohio,0.117
+Somerset,42111,Pennsylvania,0.0858
+Clark,39023,Ohio,0.214
+Clermont,39025,Ohio,0.2391
+Hampton City,51650,Virginia,0.7049
+McLean,17113,Illinois,0.1081
+Amelia,51007,Virginia,0.0551
+Stark,39151,Ohio,0.3611
+Grant,54023,West Virginia,0.0494
+Huntingdon,42061,Pennsylvania,0.0649
+Blair,42013,Pennsylvania,0.1485
+Greenbrier,54025,West Virginia,0.0481
+Putnam,54079,West Virginia,0.1274
+Somerset,24039,Maryland,0.0729
+Marshall,17123,Illinois,0.0637
+Carroll,24013,Maryland,0.2192
+Mahoning,39099,Ohio,0.3278
+Bedford,51019,Virginia,0.0998
+Henry,17073,Illinois,0.0819
+Cape May,34009,New Jersey,0.2182
+Lancaster,42071,Pennsylvania,0.2685
+Anne Arundel,24003,Maryland,0.4415
+Erie,42049,Pennsylvania,0.1885
+Howard,24027,Maryland,0.4569
+Stephenson,17177,Illinois,0.0906
+Morris,34027,New Jersey,0.3986
+Jo Daviess,17085,Illinois,0.0719
+Baltimore,24005,Maryland,0.3958
+Monmouth,34025,New Jersey,0.5314
+Boone,17007,Illinois,0.1418
+Sussex,10005,Delaware,0.1891
+Greensville,51081,Virginia,0.0568
+Somerset,34035,New Jersey,0.4753
+Middlesex,34023,New Jersey,0.6679
+Kankakee,17091,Illinois,0.1262
+Tioga,42117,Pennsylvania,0.0658
+Van Wert,39161,Ohio,0.1008
+Harford,24025,Maryland,0.2563
+Berrien,26021,Michigan,0.2274
+Caroline,51033,Virginia,0.0738
+Fauquier,51061,Virginia,0.0859
+Lackawanna,42069,Pennsylvania,0.2225
+LaSalle,17099,Illinois,0.1054
+Armstrong,42005,Pennsylvania,0.1105
+Alleghany,51005,Virginia,0.0532
+Marion,39101,Ohio,0.1274
+Beaver,42007,Pennsylvania,0.2371
+Lee,17103,Illinois,0.0764
+Halifax,51083,Virginia,0.0653
+Guernsey,39059,Ohio,0.103
+Harrison,54033,West Virginia,0.128
+Scioto,39145,Ohio,0.1057
+Worcester,24047,Maryland,0.0881
+Mercer,34021,New Jersey,0.5106
+Atlantic,34001,New Jersey,0.1908
+Northampton,51131,Virginia,0.0527
+Monongalia,54061,West Virginia,0.1478
+Franklin,39049,Ohio,0.6876
+Montour,42093,Pennsylvania,0.1529
+Prince George,51149,Virginia,0.0294
+Marshall,54051,West Virginia,0.0966
+Cambria,42021,Pennsylvania,0.1384
+Wyoming,42131,Pennsylvania,0.0826
+Pickaway,39129,Ohio,0.109
+Warren,51187,Virginia,0.1482
+Montgomery,42091,Pennsylvania,0.6368
+Medina,39103,Ohio,0.2729
+Sussex,34037,New Jersey,0.1564
+Franklin,42055,Pennsylvania,0.1557
+Passaic,34031,New Jersey,0.4079
+Monroe,39111,Ohio,0.0773
+Dearborn,18029,Indiana,0.1377
+Jefferson,18077,Indiana,0.1012
+New Castle,10003,Delaware,0.455
+Cass,26027,Michigan,0.1138
+Cecil,24015,Maryland,0.1819
+Calvert,24009,Maryland,0.2112
+Washington,39167,Ohio,0.1059
+Mason,21161,Kentucky,0.0899
+Bucks,42017,Pennsylvania,0.4065
+Mason,54053,West Virginia,0.0745
+Butler,39017,Ohio,0.3762
+Brunswick,51025,Virginia,0.0565
+Ogle,17141,Illinois,0.0867
+Burlington,34005,New Jersey,0.2309
+Rockingham,51165,Virginia,0.0974
+Auglaize,39011,Ohio,0.128
+Schuylkill,42107,Pennsylvania,0.1266
+District of Columbia,11001,District of Columbia,0.8274
+Vinton,39163,Ohio,0.0593
+Rock Island,17161,Illinois,0.1892
+Pleasants,54073,West Virginia,0.0741
+Oldham,21185,Kentucky,0.2191
+Lawrence,39087,Ohio,0.1119
+Snyder,42109,Pennsylvania,0.1264
+Union,34039,New Jersey,0.3674
+FAYETTE,42051,Pennsylvania,0.8977
+Madison,18095,Indiana,0.1971
+Lawrence,21127,Kentucky,0.0693
+Fluvanna,51065,Virginia,0.0808
+Defiance,39039,Ohio,0.1149
+Cumberland,34011,New Jersey,0.175
+Jefferson,39081,Ohio,0.1349
+Wayne,18177,Indiana,0.1379
+Chesterfield,51041,Virginia,0.3912
+Delaware,42045,Pennsylvania,0.7078
+Montgomery,39113,Ohio,0.4885
+Buckingham,51029,Virginia,0.0489
+Clark,21049,Kentucky,0.1061
+Miami,39109,Ohio,0.1777
+Lycoming,42081,Pennsylvania,0.0816
+Northumberland,42097,Pennsylvania,0.1405
+Lawrence,42073,Pennsylvania,0.1809
+Chesapeake City,51550,Virginia,0.2599
+Berks,42011,Pennsylvania,0.2272
+Fairfax,51059,Virginia,0.9686
+Carbon,42025,Pennsylvania,0.1253
+Adams,42001,Pennsylvania,0.1585
+Columbiana,39029,Ohio,0.1578
+Carroll,39019,Ohio,0.0988
+Gloucester,34015,New Jersey,0.393
+Wayne,54099,West Virginia,0.0808
+Wise,51195,Virginia,0.0889
+Charles,24017,Maryland,0.1645
+Henry,39069,Ohio,0.105
+Union,42119,Pennsylvania,0.1117
+DuPage,17043,Illinois,0.8445
+Richland,39139,Ohio,0.1854
+Wood,39173,Ohio,0.1831
+Greene,42059,Pennsylvania,0.1004
+Bergen,34003,New Jersey,0.7668
+Cumberland,42041,Pennsylvania,0.2486
+Ottawa,39123,Ohio,0.189
+Lebanon,42075,Pennsylvania,0.2324
+Accomack,51001,Virginia,0.0717
+Westmoreland,42129,Pennsylvania,0.225
+Allegheny,42003,Pennsylvania,0.5702
+Grundy,17063,Illinois,0.1266
+Chester,42029,Pennsylvania,0.3496
+Spencer,18147,Indiana,0.1045
+Boone,21015,Kentucky,0.3108
+Hunterdon,34019,New Jersey,0.2087
+Highland,51091,Virginia,0.028
+Centre,42027,Pennsylvania,0.0906
+Whiteside,17195,Illinois,0.0922
+Sandusky,39143,Ohio,0.1421
+Lucas,39095,Ohio,0.5096
+Muskingum,39119,Ohio,0.1254
+Ocean,34029,New Jersey,0.2704
+Camden,34007,New Jersey,0.5772
+WARREN,34041,New Jersey,0.1707
+Washington,51191,Virginia,0.099
+Trumbull,39155,Ohio,0.2289
+Summit,39153,Ohio,0.6262
+Bradford,42015,Pennsylvania,0.0853
+Clearfield,42033,Pennsylvania,0.0776
+Darke,39037,Ohio,0.1064
+Salem City,51775,Virginia,0.89
+Shelby,39149,Ohio,0.1227
+Kent,10001,Delaware,0.1841
+Essex,34013,New Jersey,0.8359
+Warren,42123,Pennsylvania,0.0531
+Tazewell,17179,Illinois,0.137
+Richmond,51159,Virginia,0.0638
+Henrico,51087,Virginia,0.5279
+Russell,51167,Virginia,0.0709
+Hudson,34017,New Jersey,0.7305
+Ashtabula,39007,Ohio,0.1355
+Pulaski,21199,Kentucky,0.1159
+Talbot,24041,Maryland,0.1287
+Marion,54049,West Virginia,0.1219
+Monroe,42089,Pennsylvania,0.1827
+Wayne,39169,Ohio,0.1634
+Venango,42121,Pennsylvania,0.0807
+Lake,17097,Illinois,0.6167
+Lorain,39093,Ohio,0.339
+Williams,39171,Ohio,0.1152
+Cuyahoga,39035,Ohio,0.8318
+Tuscarawas,39157,Ohio,0.1414
+Crawford,39033,Ohio,0.1181
+Philadelphia,42101,Pennsylvania,0.8726
+McHenry,17111,Illinois,0.2637
+Montgomery,24031,Maryland,0.1248
+Hamilton,39061,Ohio,0.6624
+Dauphin,42043,Pennsylvania,0.2339
+Danville City,51590,Virginia,0.6066
+Dare,37055,North Carolina,0.0878
+Alexandria City,51510,Virginia,0.9638
+Richmond City,51760,Virginia,0.883
+Susquehanna,42115,Pennsylvania,0.0875
+Lake,39085,Ohio,0.5101
+Winnebago,17201,Illinois,0.2862
+Baltimore City,24510,Maryland,0.9047
+Kane,17089,Illinois,0.3996
